@@ -21,3 +21,5 @@ The dataset we collected for this IPL match analysis contains the following colu
 - **player_out**: Name of the player out on the delivery (if any).
 - **wicket_kind**: Type of dismissal (if any).
 - **fielders**: Names of fielders involved in the dismissal (if any).
+
+[Download](https://github.com/Rangeetha05/Analysis-using-Python.git)
